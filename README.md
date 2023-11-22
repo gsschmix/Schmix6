@@ -6,12 +6,12 @@ VERSION: 1.0.0
 
 SCHMIX6
 
-PURPOSE: To act as an interface between Coinbase and trading strategies.
+PURPOSE: To act as an interface between Coinbase and the user's computer
 
 FILES:
 
     - main.py: This file is used to create an initial welcome and login screen.
-        After one has successfully logged in, they are taken to frames.py
+        After one has successfully logged in, they are taken to frames.py.
 
     - frames.py: This file is used to create a new window that holds the
         buttons to be used by the program to access the other frames. Each
